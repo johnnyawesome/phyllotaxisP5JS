@@ -4,6 +4,10 @@ A Phyllotaxis Pattern in P5JS
 
 ![phyllotaxisP5JSDemoImage](https://github.com/johnnyawesome/phyllotaxisP5JS/blob/master/PhyllotaxisP5JS/DemoImage/phyllotaxisP5JSDemoImage.jpg)
 
+## Background
+This Phyllotaxis Pattern si loosely based on [this tutorial video from Dan Shiffman.](https://www.youtube.com/watch?v=KWoJgHFYWxY)
+However, I found the Sine / Cosine part a bit confusing, so my version just rotates the grid with rotate() to get the same effect.
+
 ## Alternative projects
 There are three total Phyllotaxis Projects I made
 
