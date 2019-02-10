@@ -4,7 +4,7 @@ const iterations = 10000;
 const phi = 137.5;
 let rotation = phi;
 let distance = 1;
-let distanceModifier = 1;
+let distanceModifier = 0.1;
 let seedDize = 10;
 
 function setup() {
@@ -19,7 +19,7 @@ function setup() {
   for (let i = 0; i <= iterations; i++) {
     generatePattern(rotation, distance);
     rotation += phi;
-    distance += distanceModifier / 10;
+    distance += distanceModifier;
     fill(255);
   }
 }
