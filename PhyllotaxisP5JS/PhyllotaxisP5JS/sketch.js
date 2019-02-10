@@ -14,6 +14,8 @@ function setup() {
   translate(width / 2, height / 2);
   ellipse(0, 0, seedDize, seedDize);
 
+  //Calls the generatePattern() function to generate a new seed,
+  //then it calculates the values for the next iteration.
   for (let i = 0; i <= iterations; i++) {
     generatePattern(rotation, distance);
     rotation += phi;
@@ -22,9 +24,11 @@ function setup() {
   }
 }
 
+//We don't need draw in thie project
 function draw() {
 }
 
+//This function rotates the grid and generates a seed at the new position
 function generatePattern(_rotation, _distance) {
   push();
   rotate(_rotation);
