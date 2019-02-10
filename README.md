@@ -11,4 +11,4 @@ There are three total Phyllotaxis Projects I made
 
 - There is also a colored version of the same Processing sketch [available here](https://github.com/johnnyawesome/PhyllotaxisSunflowerColored)
 
-[And there is a P5JS Version which is available here](https://github.com/johnnyawesome/phyllotaxisP5JS)
+- [And there is a P5JS Version which is available here](https://github.com/johnnyawesome/phyllotaxisP5JS)
