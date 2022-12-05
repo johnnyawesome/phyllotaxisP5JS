@@ -17,6 +17,3 @@ There are three total Phyllotaxis Projects I made
 
 - [And there is a P5JS Version which is available here](https://github.com/johnnyawesome/phyllotaxisP5JS)
 
-## More Information
-
-[I blogged about this project in more detail](https://breaksome.tech/coding-phyllotaxis-patterns-in-p5js/)
